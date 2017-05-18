@@ -1,3 +1,5 @@
+[Software Carpentry]:https://software-carpentry.org/
+[The Unix Shell]:http://swcarpentry.github.io/shell-novice/
 # Post HybSeq Workshop Session(s)
 
 * Illumina NGS basics (firm up what clusters and PHRED scores are)
@@ -10,10 +12,8 @@
 
 # Recommended Resources
 
-* 
-  [Software Carpentry]:https://software-carpentry.org/
-  provide a lesson on
-  [The Unix Shell]:http://swcarpentry.github.io/shell-novice/ .
+* [Software Carpentry] provide a lesson on [The Unix Shell] which can
+  be used for self-paced study.
 
 -----
 
