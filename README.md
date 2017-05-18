@@ -10,8 +10,10 @@
 
 # Recommended Resources
 
-* [Software Carpentry]:https://software-carpentry.org/
-  provide a lesson on [The Unix Shell]:http://swcarpentry.github.io/shell-novice/ .
+* 
+  [Software Carpentry]:https://software-carpentry.org/
+  provide a lesson on
+  [The Unix Shell]:http://swcarpentry.github.io/shell-novice/ .
 
 -----
 
