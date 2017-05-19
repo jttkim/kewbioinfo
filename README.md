@@ -8,8 +8,11 @@
 * PHRED scores and their encoding (aka what is `phred33`?)
 * File permissions (aka why are the `EGL*.fastq` files and the `NZ*.fastq` files shown in different colours?)
 * Intro into `bash` program control flow and I/O redirection (aka how does that `while read name do reads_first.py ... done < namelist.txt` thing work
+* alignments, multiple alignments
+* processes (and threads), multiprocessing (aka what's this GNU `parallel` thing?)
+* principles / heuristics / tips and tricks / hacks ... and how to distinguish these
 
-
+  
 # Recommended Resources
 
 * [Software Carpentry] provide a lesson on [The Unix Shell] which can
